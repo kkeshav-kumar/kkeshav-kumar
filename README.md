@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kkeshav-kumar
-- 🌱 I’m currently learning kotlin-spring-boot
-  
-<br>
-
+- 🌱 I’m currently working on kotlin-spring-boot
+ <br>
+ 
 ### *Life was very easy before git*
 
 #### *Why did the developer go to the doctor?*  ~> ```They caught a bad case of merge conflicts!```
