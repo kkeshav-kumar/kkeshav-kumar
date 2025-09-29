@@ -2,6 +2,11 @@
 - 🌱 Creating bugs since 2023
  <br>
 
+<p align="center">
+  <img src="https://media.tenor.com/EWRvErYGzPUAAAAC/bugs-bunny-looney-tunes.gif" alt="Bugs Bunny" width="300">
+</p>
+
+
 
  ---
 
